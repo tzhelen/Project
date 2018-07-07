@@ -1,0 +1,6 @@
+19:49:17.335 [main] INFO  resources.base - Successfully validated the navigation link for user 
+19:49:19.151 [main] INFO  resources.base - Driver is closed
+19:49:32.472 [main] INFO  resources.base - Driver is initialized
+19:49:55.725 [main] INFO  resources.base - Navigated to home page
+19:49:56.667 [main] INFO  resources.base - Successfully validated the title text
+19:49:58.971 [main] INFO  resources.base - Driver is closed

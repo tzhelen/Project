@@ -1,0 +1,7 @@
+11:42:22.539 [main] INFO  resources.base - Driver is initialized
+11:42:33.094 [main] INFO  resources.base - Navigated to home page
+11:42:33.652 [main] INFO  resources.base - Successfully validated the navigation link for user 
+11:42:35.790 [main] INFO  resources.base - Driver is closed
+11:42:49.257 [main] INFO  resources.base - Driver is initialized
+11:43:01.447 [main] INFO  resources.base - Navigated to home page
+11:43:02.149 [main] INFO  resources.base - Successfully validated the title text
